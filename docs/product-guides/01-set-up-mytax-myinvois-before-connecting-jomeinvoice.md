@@ -20,13 +20,13 @@ If you're doing initial setup for a live business, go straight to the Live envir
 1. **Open the MyTax home page**
   Go to `mytax.hasil.gov.my` (or the testing URL if you're trialing).
 2. **Select your preferred ID Type and submit**
-  Pick your ID type (typically NRIC for Malaysians) and click **Submit**.
+  Pick your ID type (typically NRIC for Malaysians) and click **Submit**.  
   ![Screenshot: MyTax ID Type selection screen](https://api.scalar.com/cdn/images/fYzj9LUlX1c7mY4tkVrDg/hsdAA8ZiPQK9LgoBAdMvL.png)
 3. **Follow the email verification**
   You'll receive an email with a verification link. Click it. You're redirected back to MyTax (or the MyInvois testing environment if using testing URLs) to set your password.
 4. **Set password and log in**
   After setting your password, click **OK** to log into your account. You're now in MyTax as an individual.
-  > ℹ️ **Note:** A walkthrough video is available in the official JomeInvoice product guide for this step.
+  > ℹ️ **Note:** [A walkthrough video is available](https://www.youtube.com/watch?v=wtLjDQgsd9w).
 
 ## Step 2 — Register your company in MyTax
 

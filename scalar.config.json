@@ -37,17 +37,17 @@
     "tabs": [
       {
         "title": "Get started",
-        "path": "/product-guide/getting-started/set-up-mytax-myinvois",
+        "path": "/getting-started/set-up-mytax-myinvois",
         "icon": "phosphor/regular/rocket-launch"
       },
       {
         "title": "Submit to LHDN",
-        "path": "/product-guide/creating-invoices/submit-to-lhdn",
+        "path": "/creating-invoices/submit-to-lhdn",
         "icon": "phosphor/regular/paper-plane-tilt"
       },
       {
         "title": "Error codes",
-        "path": "/product-guide/managing-invoices/rejection-error-codes",
+        "path": "/managing-invoices/rejection-error-codes",
         "icon": "phosphor/regular/warning-circle"
       }
     ],
@@ -67,17 +67,17 @@
     ],
     "routes": {
       "/": {
-        "type": "page",
-        "title": "Introduction",
-        "filepath": "docs/product-guides/README.md",
-        "icon": "phosphor/regular/house"
-      },
-      "/product-guide": {
         "type": "group",
         "title": "Product Guide",
-        "mode": "nested",
+        "mode": "flat",
         "icon": "phosphor/regular/books",
         "children": {
+          "": {
+            "type": "page",
+            "title": "Introduction",
+            "filepath": "docs/product-guides/README.md",
+            "icon": "phosphor/regular/house"
+          },
           "/getting-started": {
             "type": "group",
             "title": "Getting started",

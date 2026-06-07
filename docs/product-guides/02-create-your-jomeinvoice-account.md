@@ -33,7 +33,7 @@ To create a workspace, you only need three things:
 
 Click **Create workspace**. Your workspace is created and you land on the dashboard.
 
-*[Screenshot: Create workspace form — Company Name, BRN/SSM, Country]*
+[*[Screenshot: Create workspace form — Company Name, BRN/SSM, Country]*](https://api.scalar.com/cdn/images/fYzj9LUlX1c7mY4tkVrDg/4la8gEcCQsavwivPpXGWk.jpeg)
 
 ## Part 3 — Verify your workspace
 

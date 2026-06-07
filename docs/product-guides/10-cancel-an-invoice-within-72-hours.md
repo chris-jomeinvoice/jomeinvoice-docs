@@ -40,7 +40,9 @@ If you issue an invoice and realize it's wrong — incorrect amount, wrong custo
 
 ## What if 72 hours has passed?
 
-Issue a Credit Note. From the original invoice page, click **Issue Credit Note**. This creates a new e-invoice that negates the original — for accounting and LHDN purposes, the two cancel out. You then issue a fresh sales invoice with the correct figures under a new invoice number.
+Issue a Credit Note. View our demo on [creating and issuing Credit, Debit, and Refund Notes](https://app.supademo.com/demo/cmq49gohu1s0vqm6u9pkwzroj?utm_source=link). 
+
+From the original invoice page, click **Issue Credit Note**. This creates a new e-invoice that negates the original — for accounting and LHDN purposes, the two cancel out. You then issue a fresh sales invoice with the correct figures under a new invoice number.
 
 The CN/DN/RN module covers this in detail.
 
