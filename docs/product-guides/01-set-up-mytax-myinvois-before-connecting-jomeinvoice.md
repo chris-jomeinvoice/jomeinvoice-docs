@@ -18,21 +18,15 @@ If you're doing initial setup for a live business, go straight to the Live envir
 ## Step 1 — Create your MyTax account
 
 1. **Open the MyTax home page**
-
-   Go to `mytax.hasil.gov.my` (or the testing URL if you're trialing).
+  Go to `mytax.hasil.gov.my` (or the testing URL if you're trialing).
 2. **Select your preferred ID Type and submit**
-
-   Pick your ID type (typically NRIC for Malaysians) and click **Submit**.
-
-   *[Screenshot: MyTax ID Type selection screen]*
+  Pick your ID type (typically NRIC for Malaysians) and click **Submit**.
+  ![Screenshot: MyTax ID Type selection screen](https://api.scalar.com/cdn/images/fYzj9LUlX1c7mY4tkVrDg/hsdAA8ZiPQK9LgoBAdMvL.png)
 3. **Follow the email verification**
-
-   You'll receive an email with a verification link. Click it. You're redirected back to MyTax (or the MyInvois testing environment if using testing URLs) to set your password.
+  You'll receive an email with a verification link. Click it. You're redirected back to MyTax (or the MyInvois testing environment if using testing URLs) to set your password.
 4. **Set password and log in**
-
-   After setting your password, click **OK** to log into your account. You're now in MyTax as an individual.
-
-   > ℹ️ **Note:** A walkthrough video is available in the official JomeInvoice product guide for this step.
+  After setting your password, click **OK** to log into your account. You're now in MyTax as an individual.
+  > ℹ️ **Note:** A walkthrough video is available in the official JomeInvoice product guide for this step.
 
 ## Step 2 — Register your company in MyTax
 
@@ -48,11 +42,9 @@ This step is optional. If you (the Director) want to handle e-invoicing yourself
 
 1. **Log into MyTax as the Director**
 2. **Switch to your Director / Business Owner role**
-
-   Under **Role Selection**, click your company name to switch from your individual role to your Director or Business Owner role for the company.
+  Under **Role Selection**, click your company name to switch from your individual role to your Director or Business Owner role for the company.
 3. **Add staff as representative**
-
-   Navigate to the representative settings and add the staff member's NRIC. They'll now be able to access MyInvois for this company.
+  Navigate to the representative settings and add the staff member's NRIC. They'll now be able to access MyInvois for this company.
 
 ## Step 4 — Create your MyInvois account
 
@@ -70,12 +62,12 @@ This step is detailed in its own article — see [Adding JomeInvoice as Intermed
 
 While you're in MyTax/MyInvois, note your TIN exactly as LHDN has it. The prefix depends on entity type and you'll enter it inside JomeInvoice later:
 
-| Entity type | TIN format | Example |
-| --- | --- | --- |
-| Company (Sdn Bhd / Bhd) | C + 11 digits | C12345678901 |
-| Sole Proprietor | EI + 11 digits | EI12345678901 |
-| Individual | IG + 11 digits | IG12345678901 |
-| Government | G + 11 digits | G12345678901 |
+| Entity type             | TIN format     | Example       |
+| ----------------------- | -------------- | ------------- |
+| Company (Sdn Bhd / Bhd) | C + 11 digits  | C12345678901  |
+| Sole Proprietor         | EI + 11 digits | EI12345678901 |
+| Individual              | IG + 11 digits | IG12345678901 |
+| Government              | G + 11 digits  | G12345678901  |
 
 ## What's next
 
