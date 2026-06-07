@@ -19,9 +19,9 @@ Once a sales invoice is past the 72-hour cancellation window and becomes locked,
 - **Refunding a payment** — issue a Refund Note regardless of timing.
 
 ## How to create CN/DN/RN in JomeInvoice
-::scalar-embed{ src="https://app.supademo.com/demo/cmq49gohu1s0vqm6u9pkwzroj?utm_source=link" caption="Interactive product walkthrough" alt="Embedded product walkthrough"}
-https://app.supademo.com/demo/cmq49gohu1s0vqm6u9pkwzroj?utm_source=link
-::scalar-embed{ src="https://app.supademo.com/demo/cmq49gohu1s0vqm6u9pkwzroj?utm_source=link" caption="Short product demo video"}
+<div style="position: relative; box-sizing: content-box; max-height: 80vh; max-height: 80svh; width: 100%; aspect-ratio: 1.60; padding: 40px 0 40px 0;">
+  <iframe src="https://app.supademo.com/embed/cmq49gohu1s0vqm6u9pkwzroj?embed_v=2&utm_source=embed" loading="lazy" title="Create and Submit Credit Notes on MyInvoice" allow="clipboard-write" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
 Open the original invoice, click **Issue Credit / Debit / Refund Note** from the action menu, and select the note type. The note is pre-linked to the original invoice — LHDN records the relationship between the two documents automatically.
 
 ### Related articles

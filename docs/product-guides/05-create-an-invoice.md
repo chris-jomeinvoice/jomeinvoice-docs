@@ -29,11 +29,17 @@ All four methods end up in the same place and follow the same submission path.
 
 ## Overview
 
-Here's a quick demo on how to use the Sales Invoice Module. [Click this link](https://app.supademo.com/demo/cmq41uw4w1ogkqm6udmtbkq07?utm_source=link)
+Here's a quick demo on how to use the Sales Invoice Module. 
+<div style="position: relative; box-sizing: content-box; max-height: 80vh; max-height: 80svh; width: 100%; aspect-ratio: 1.60; padding: 40px 0 40px 0;">
+  <iframe src="https://app.supademo.com/embed/cmq41uw4w1ogkqm6udmtbkq07?embed_v=2&utm_source=embed" loading="lazy" title="Introduction to Sales E-Invoices in JomeInvoice" allow="clipboard-write" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
 
 ## Step-by-step
 
-Too lazy to read? Follow this demo on [how to create Sales Invoices.](https://app.supademo.com/demo/cmq4atdli1tfjqm6uif2rqe0l?utm_source=link)
+Too lazy to read? Follow this demo
+<div style="position: relative; box-sizing: content-box; max-height: 80vh; max-height: 80svh; width: 100%; aspect-ratio: 1.60; padding: 40px 0 40px 0;">
+  <iframe src="https://app.supademo.com/embed/cmq4atdli1tfjqm6uif2rqe0l?embed_v=2&utm_source=embed" loading="lazy" title="Create and Submit Sales Invoices in JomeInvoice" allow="clipboard-write" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
 
 1. **Go to the right module**
 
