@@ -1,36 +1,39 @@
 {
   "$schema": "https://registry.scalar.com/@scalar/schemas/config",
   "scalar": "2.0.0",
+  "siteConfig": {
+    "subdomain": "jomeinvoice-docs"
+  },
   "info": {
     "title": "JomeInvoice V2 — Product Guide",
     "description": "Guides for the full JomeInvoice V2 product — from first setup in MyTax/MyInvois to daily e-invoice management and LHDN submission."
   },
   "navigation": {
-    "header": [
-      {
-        "type": "link",
-        "title": "Guides",
-        "to": "/"
-      },
-      {
-        "type": "spacer"
-      },
-      {
-        "type": "link",
-        "title": "Log in",
-        "icon": "phosphor/regular/sign-in",
-        "newTab": true,
-        "to": "https://app.jomeinvoice.com.my"
-      },
-      {
-        "type": "link",
-        "title": "Open JomeInvoice",
-        "style": "button",
-        "icon": "phosphor/regular/arrow-up-right",
-        "newTab": true,
-        "to": "https://app.jomeinvoice.com.my"
-      }
-    ],
+    // "header": [
+    //   {
+    //     "type": "link",
+    //     "title": "Guides",
+    //     "to": "/"
+    //   },
+    //   {
+    //     "type": "spacer"
+    //   },
+    //   {
+    //     "type": "link",
+    //     "title": "Log in",
+    //     "icon": "phosphor/regular/sign-in",
+    //     "newTab": true,
+    //     "to": "https://app.jomeinvoice.com.my"
+    //   },
+    //   {
+    //     "type": "link",
+    //     "title": "Open JomeInvoice",
+    //     "style": "button",
+    //     "icon": "phosphor/regular/arrow-up-right",
+    //     "newTab": true,
+    //     "to": "https://app.jomeinvoice.com.my"
+    //   }
+    // ],
     "tabs": [
       {
         "title": "Get started",
