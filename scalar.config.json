@@ -6,6 +6,62 @@
     "description": "Guides for the full JomeInvoice V2 product — from first setup in MyTax/MyInvois to daily e-invoice management and LHDN submission."
   },
   "navigation": {
+    "header": [
+      {
+        "type": "link",
+        "title": "Guides",
+        "to": "/"
+      },
+      {
+        "type": "spacer"
+      },
+      {
+        "type": "link",
+        "title": "Log in",
+        "icon": "phosphor/regular/sign-in",
+        "newTab": true,
+        "to": "https://app.jomeinvoice.com.my"
+      },
+      {
+        "type": "link",
+        "title": "Open JomeInvoice",
+        "style": "button",
+        "icon": "phosphor/regular/arrow-up-right",
+        "newTab": true,
+        "to": "https://app.jomeinvoice.com.my"
+      }
+    ],
+    "tabs": [
+      {
+        "title": "Get started",
+        "path": "/getting-started/set-up-mytax-myinvois",
+        "icon": "phosphor/regular/rocket-launch"
+      },
+      {
+        "title": "Submit to LHDN",
+        "path": "/creating-invoices/submit-to-lhdn",
+        "icon": "phosphor/regular/paper-plane-tilt"
+      },
+      {
+        "title": "Error codes",
+        "path": "/managing-invoices/rejection-error-codes",
+        "icon": "phosphor/regular/warning-circle"
+      }
+    ],
+    "sidebar": [
+      {
+        "title": "Watch a demo",
+        "url": "https://app.supademo.com/demo/cmq3cmyz916xgqm6uz02f2r5r",
+        "icon": "phosphor/regular/play-circle",
+        "newTab": true
+      },
+      {
+        "title": "Open JomeInvoice",
+        "url": "https://app.jomeinvoice.com.my",
+        "icon": "phosphor/regular/arrow-up-right",
+        "newTab": true
+      }
+    ],
     "routes": {
       "/": {
         "type": "page",
