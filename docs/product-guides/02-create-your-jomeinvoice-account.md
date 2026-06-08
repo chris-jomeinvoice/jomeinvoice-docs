@@ -4,13 +4,14 @@
 
 Once you've completed the MyTax and MyInvois setup, creating your JomeInvoice account takes just a few minutes. The flow is: sign up → verify email → create your workspace → verify your workspace with LHDN details. After that, you're ready to issue your first e-invoice.
 
-> ℹ️ **Note:** Make sure you've completed the MyTax and MyInvois setup first — including adding JomeInvoice as your Intermediary. [Start here →](01-set-up-mytax-myinvois-before-connecting-jomeinvoice.md)
+> [!NOTE]
+> Make sure you've completed the MyTax and MyInvois setup first — including adding JomeInvoice as your Intermediary. [Start here →](01-set-up-mytax-myinvois-before-connecting-jomeinvoice.md)
 
 ## Part 1 — Sign up
 
 1. **Go to the sign-up page**
 
-   Visit `app.jomeinvoice.com/signup`. Enter your work email and choose a password. The email you use here becomes the Admin email for your workspace.
+   Visit `https://v2.jomeinvoice.my/auth/register`. Enter your work email and choose a password. The email you use here becomes the Admin email for your workspace.
 2. **Verify your email**
 
    JomeInvoice sends a verification email — usually within seconds. Click the link in the email to confirm your account. You'll be redirected back into JomeInvoice, logged in.
@@ -58,7 +59,8 @@ Go to **Settings → Workspace** and complete the four verification fields:
 
 Click **Save & Verify**. Once verified, your workspace status turns active and you're ready to create invoices.
 
-> ℹ️ **Note:** Workspace verified — you can now create invoices, add customers and suppliers, and start submitting to LHDN through JomeInvoice.
+> [!NOTE] 
+> Workspace verified — you can now create invoices, add customers and suppliers, and start submitting to LHDN through JomeInvoice.
 
 ## Adding team members
 

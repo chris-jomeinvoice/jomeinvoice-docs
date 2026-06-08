@@ -2,7 +2,8 @@
   "$schema": "https://registry.scalar.com/@scalar/schemas/config",
   "scalar": "2.0.0",
   "siteConfig": {
-    "subdomain": "jomeinvoice-docs"
+    "subdomain": "jomeinvoice-docs",
+    "theme": "deepSpace"
   },
   "info": {
     "title": "JomeInvoice V2 — Product Guide",
@@ -23,7 +24,7 @@
         "title": "Log in",
         "icon": "phosphor/regular/sign-in",
         "newTab": true,
-        "to": "https://app.jomeinvoice.com.my"
+        "to": "https://v2.jomeinvoice.my"
       },
       {
         "type": "link",
@@ -31,7 +32,7 @@
         "style": "button",
         "icon": "phosphor/regular/arrow-up-right",
         "newTab": true,
-        "to": "https://app.jomeinvoice.com.my"
+        "to": "https://v2.jomeinvoice.my"
       }
     ],
     "tabs": [
@@ -60,7 +61,7 @@
       },
       {
         "title": "Open JomeInvoice",
-        "url": "https://app.jomeinvoice.com.my",
+        "url": "https://v2.jomeinvoice.my",
         "icon": "phosphor/regular/arrow-up-right",
         "newTab": true
       }

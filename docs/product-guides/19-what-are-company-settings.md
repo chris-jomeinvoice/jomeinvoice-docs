@@ -4,7 +4,7 @@ You can view your organisation structure here. All organisations will have a Mai
 
 Think of a Branch as a new shop, or a new channel.
 
-Main HQ - need Supademo
+## Main HQ - need Supademo
 
 Here you can modify and manage your:
 
@@ -26,7 +26,7 @@ Editable Business Information:
 - (Optional) SST No.
 - (Optional) Tourism Tax No.
 
-Branches - need Supademo
+## Branches - need Supademo
 
 To add a new branch, you will need:
 
