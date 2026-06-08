@@ -4,7 +4,8 @@
 
 If you issue an invoice and realize it's wrong — incorrect amount, wrong customer, duplicate, anything — LHDN gives you a 72-hour window to cancel it cleanly. After that window closes, you must issue a Credit Note (CN) or Debit Note (DN) instead.
 
-> 🚨 **Important:** The 72-hour countdown starts from the moment your invoice transitions to *Valid* — not from when you created it. If you submitted at 10am Monday and LHDN validated at 10:01am, your deadline is 10:01am Thursday.
+> [!IMPORTANT]
+> The 72-hour countdown starts from the moment your invoice transitions to *Valid* — not from when you created it. If you submitted at 10am Monday and LHDN validated at 10:01am, your deadline is 10:01am Thursday.
 
 ## When you can cancel
 
@@ -23,7 +24,8 @@ If you issue an invoice and realize it's wrong — incorrect amount, wrong custo
 
    Go to **Sales → Valid** tab. The "Valid hours" column shows how much time you have left to cancel — for example, "12 hours" means 12 of the 72 have already elapsed. Click the invoice to open it.
 
-   > ℹ️ **Note:** If "Valid hours" shows an incorrect number after resubmission, the V2 May 2026 release fixed this calculation. Refresh to see the corrected value.
+   > [!NOTE] 
+   > If "Valid hours" shows an incorrect number after resubmission, the V2 May 2026 release fixed this calculation. Refresh to see the corrected value.
 2. **Click "Cancel invoice"**
 
    The button appears in the top-right action menu of the invoice page. It's only present if the 72-hour window is still open — if it's missing, the window has closed.
@@ -41,6 +43,7 @@ If you issue an invoice and realize it's wrong — incorrect amount, wrong custo
 ## What if 72 hours has passed?
 
 Issue a Credit Note. View our demo on creating and issuing Credit, Debit, and Refund Notes
+
 <div style="position: relative; box-sizing: content-box; max-height: 80vh; max-height: 80svh; width: 100%; aspect-ratio: 1.60; padding: 40px 0 40px 0;">
   <iframe src="https://app.supademo.com/embed/cmq49gohu1s0vqm6u9pkwzroj?embed_v=2&utm_source=embed" loading="lazy" title="Create and Submit Credit Notes on MyInvoice" allow="clipboard-write" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
 </div>

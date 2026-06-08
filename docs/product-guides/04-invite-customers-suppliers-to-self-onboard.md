@@ -36,7 +36,8 @@ When the customer fills in their own details, they're working from their actual 
 
    If their TIN validation fails, they see an error immediately — meaning they fix it on their side before it ever reaches your queue.
 
-   > ℹ️ **Note:** If your customer's onboarding link returns an error when they click it, this was a known bug in early V2 builds — now fixed in the May 2026 release.
+   > [!NOTE] 
+   > If your customer's onboarding link returns an error when they click it, this was a known bug in early V2 builds — now fixed in the May 2026 release.
 4. **Approve in the Pending Approval queue**
 
    Once they submit, the record appears in your **Pending Approval** queue. You review and approve. The customer is now active and selectable in invoice creation.

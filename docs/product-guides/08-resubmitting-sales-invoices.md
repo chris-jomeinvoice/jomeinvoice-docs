@@ -10,7 +10,8 @@ When an invoice is rejected by LHDN — or fails validation before submission �
 - Invoice is in **Inbound Draft** and failed smart field validation during upload
 - You corrected the data (e.g. fixed a TIN, changed a classification code) and want to try again
 
-> ℹ️ **Note:** You cannot resubmit a **Cancelled** invoice. If an invoice was cancelled within the 72-hour window, you must create a new one.
+> [!NOTE] 
+> You cannot resubmit a **Cancelled** invoice. If an invoice was cancelled within the 72-hour window, you must create a new one.
 
 ## How to resubmit
 

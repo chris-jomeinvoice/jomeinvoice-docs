@@ -6,7 +6,8 @@ JomeInvoice does not submit invoices to LHDN under its own name. It submits on y
 
 This article walks through the four things you do in MyTax/MyInvois before ever opening JomeInvoice: create a MyTax account, register your company, (optionally) appoint a staff representative, and add JomeInvoice as your Intermediary in MyInvois.
 
-> 🚨 **Important:** **A Director or owner of the company must do these steps** — the MyTax account is linked to their NRIC. Staff can be delegated later, but the initial registration must come from the Director.
+> [!IMPORTANT] 
+> **A Director or owner of the company must do these steps** — the MyTax account is linked to their NRIC. Staff can be delegated later, but the initial registration must come from the Director.
 
 ## Which environment to use
 
@@ -26,7 +27,8 @@ If you're doing initial setup for a live business, go straight to the Live envir
   You'll receive an email with a verification link. Click it. You're redirected back to MyTax (or the MyInvois testing environment if using testing URLs) to set your password.
 4. **Set password and log in**
   After setting your password, click **OK** to log into your account. You're now in MyTax as an individual.
-  > ℹ️ **Note:** [A walkthrough video is available](https://www.youtube.com/watch?v=wtLjDQgsd9w).
+  > [!NOTE] 
+  > [A walkthrough video is available](https://www.youtube.com/watch?v=wtLjDQgsd9w).
 
 ## Step 2 — Register your company in MyTax
 
@@ -34,7 +36,8 @@ You've created a MyTax account for yourself. Now you need to register your compa
 
 Inside MyTax, navigate to the company registration flow. You'll be asked to upload supporting documents — most importantly, the **Particulars of Directors** from SSM (a sample is available on the SSM website at `ssm-einfo.my`).
 
-> ⚠️ **Warning:** LHDN approval typically takes **3-5 business days**. Do this step early — you cannot proceed to MyInvois until your company is approved.
+> [!WARNING] 
+> LHDN approval typically takes **3-5 business days**. Do this step early — you cannot proceed to MyInvois until your company is approved.
 
 ## Step 3 — Appoint a Company Representative (optional)
 

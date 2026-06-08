@@ -22,7 +22,8 @@ LHDN mandates self-billed invoices in six specific scenarios:
 5. **Payouts to game, lottery, or contest winners**
 6. **Purchases from individuals** not operating a registered business
 
-> ⚠️ **Warning:** If you are unsure whether your situation requires a self-billed invoice, consult your tax agent. Penalties for missing self-billed cases are the same as for missing regular sales invoices.
+> [!WARNING] 
+> If you are unsure whether your situation requires a self-billed invoice, consult your tax agent. Penalties for missing self-billed cases are the same as for missing regular sales invoices.
 
 ### Related articles
 

@@ -24,7 +24,8 @@ JomeInvoice supports two invoice modules and four ways to bring invoices in. Her
 Both Sales and Self-Billed invoices can be included in the same CSV upload.  
 [How to submit to LHDN →](07-how-to-submit-invoices-to-lhdn.md)
 
-> ℹ️ **Note:** Direct Upload accepts **CSV format only**. You can configure field mapping so your existing CSV headers work even if they differ from JomeInvoice's standard template.
+> [!NOTE]
+> Direct Upload accepts **CSV format only**. You can configure field mapping so your existing CSV headers work even if they differ from JomeInvoice's standard template.
 
 ## Step-by-step
 
@@ -63,7 +64,8 @@ Both Sales and Self-Billed invoices can be included in the same CSV upload.
   When you click **Submit**, choose how to upload the valid invoices:
   - **Inbound Draft** — uploads as consolidated (draft). Use this for B2C monthly consolidation batches.
   - **Approve and Submit** — submits directly to LHDN as non-consolidated invoices. Use this for standard B2B invoice submissions.
-    > ⚠️ **Warning:** Choose the right upload type — Inbound Draft and Approve and Submit follow different submission flows and cannot be easily undone once submitted.
+    > [!WARNING]
+    > Choose the right upload type — Inbound Draft and Approve and Submit follow different submission flows and cannot be easily undone once submitted.
 9. **Track in Import Log**
   After submitting, JomeInvoice redirects you to the **Import Log**. Each upload appears as a batch-level row. Click **View** to open the invoice-level details for that batch:
   - Search by invoice number within the batch

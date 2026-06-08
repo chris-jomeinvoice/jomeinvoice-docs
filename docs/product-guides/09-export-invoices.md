@@ -28,7 +28,8 @@ JomeInvoice lets you export invoices from the Sales, Self-Billed, Import Log, an
 
 For a specific upload batch, open **Import Log**, find the batch row, click **View**, and use the **Export** button inside the batch detail modal. This exports the invoice-level detail — including error reasons for failed invoices.
 
-> ℹ️ **Note:** Buyer and supplier email addresses are included in CSV exports — useful if you need to follow up on outstanding invoices.
+> [!NOTE] 
+> Buyer and supplier email addresses are included in CSV exports — useful if you need to follow up on outstanding invoices.
 
 ### Related articles
 

@@ -30,7 +30,8 @@ The Request module lets your B2C customers request an individual e-invoice withi
 
    *[Screenshot: Request module — Pending requests list with Approve action]*
 
-> ⚠️ **Warning:** The 72-hour window for buyer requests starts from the time of the original purchase — not from when they submit the request. If they request after 72 hours, the request will be rejected.
+> [!WARNING] 
+> The 72-hour window for buyer requests starts from the time of the original purchase — not from when they submit the request. If they request after 72 hours, the request will be rejected.
 
 ### Related articles
 

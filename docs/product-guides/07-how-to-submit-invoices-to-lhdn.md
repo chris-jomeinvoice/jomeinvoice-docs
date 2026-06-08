@@ -70,7 +70,8 @@ To start: go to your invoice module, click **Bulk Actions → Consolidate Invoic
    - **Export CSV** — download the consolidated invoice data as a CSV before submitting, for internal records or review.
    - **Revert** — undo this consolidation and send all invoices back to Inbound Draft. Use this if you need to make changes before submitting.
 
-   > ⚠️ **Warning:** Once you click Submit and the consolidated invoice reaches LHDN, it cannot be reverted. Use the Revert option before submitting if you need to make any changes.
+   > [!WARNING] 
+   > Once you click Submit and the consolidated invoice reaches LHDN, it cannot be reverted. Use the Revert option before submitting if you need to make any changes.
 
    *[Screenshot: Submit stage — Submit, Export CSV, and Revert options]*
 

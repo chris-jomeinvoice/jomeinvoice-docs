@@ -4,7 +4,8 @@
 
 Before JomeInvoice can submit e-invoices on your behalf, you must authorize it as your Intermediary inside the MyInvois portal. This is a one-time setup step — once done, JomeInvoice can submit, cancel, and manage invoices under your company's TIN.
 
-> ⚠️ **Warning:** This step is done inside **MyInvois**, not JomeInvoice. Make sure you are logged in as the **Director or Business Owner** — or as the appointed Company Representative if you completed the delegation step earlier.
+> [!WARNING] 
+> This step is done inside **MyInvois**, not JomeInvoice. Make sure you are logged in as the **Director or Business Owner** — or as the appointed Company Representative if you completed the delegation step earlier.
 
 ## JomeInvoice's credentials (copy these)
 
@@ -50,12 +51,14 @@ When MyInvois asks you to identify the Intermediary, use these values:
    - **Cancel Documents** — required for the 72-hour cancel feature
    - **Reject Documents** — required for handling buyer rejection workflows
 
-   > ⚠️ **Warning:** If you leave out any scope, the corresponding action in JomeInvoice will fail with a permission error. Enable all three now — you can revoke individual scopes later if needed.
+   > [!WARNING] 
+   > If you leave out any scope, the corresponding action in JomeInvoice will fail with a permission error. Enable all three now — you can revoke individual scopes later if needed.
 6. **Confirm and save**
 
    Click **Submit**. JomeInvoice (JOM EINVOICE SDN. BHD.) now appears in your Intermediary list with status **Active**.
 
-   > ℹ️ **Note:** You're done with MyTax and MyInvois setup. From here, all your e-invoicing work happens inside JomeInvoice.
+   > [!NOTE] 
+   > You're done with MyTax and MyInvois setup. From here, all your e-invoicing work happens inside JomeInvoice.
 
 ## Troubleshooting
 

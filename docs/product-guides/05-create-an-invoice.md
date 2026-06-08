@@ -25,15 +25,25 @@ All four methods end up in the same place and follow the same submission path.
 
 [How to submit to LHDN →](07-how-to-submit-invoices-to-lhdn.md)
 
-> ℹ️ **Note:** Make sure your customer or supplier already exists in your CRM before creating an invoice. If they don't, add them first — see [Invite customers / suppliers →](04-invite-customers-suppliers-to-self-onboard.md)
+> [!NOTE] 
+> Make sure your customer or supplier already exists in your CRM before creating an invoice. If they don't, add them first — see [Invite customers / suppliers →](04-invite-customers-suppliers-to-self-onboard.md)
 
 ## Overview
 
 Here's a quick demo on how to use the Sales Invoice Module.
 
+<div style="position: relative; box-sizing: content-box; max-height: 80vh; max-height: 80svh; width: 100%; aspect-ratio: 1.60; padding: 40px 0 40px 0;">
+  <iframe src="https://app.supademo.com/embed/cmq41uw4w1ogkqm6udmtbkq07?embed_v=2&utm_source=embed" loading="lazy" title="Introduction to Sales E-Invoices in JomeInvoice" allow="clipboard-write" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
+
+
 ## Step-by-step
 
 Too lazy to read? Follow this demo
+
+<div style="position: relative; box-sizing: content-box; max-height: 80vh; max-height: 80svh; width: 100%; aspect-ratio: 1.60; padding: 40px 0 40px 0;">
+  <iframe src="https://app.supademo.com/embed/cmq4atdli1tfjqm6uif2rqe0l?embed_v=2&utm_source=embed" loading="lazy" title="Create and Submit Sales Invoices in JomeInvoice" allow="clipboard-write" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
 
 1. **Go to the right module**
   - From the left navigation, open either **Sales** or **Self-Billed** depending on the transaction you are recording.
@@ -64,7 +74,8 @@ Too lazy to read? Follow this demo
   - At this point you have two choices for how to proceed:
     - **Save as Inbound Draft** — saves the invoice inside JomeInvoice without submitting to LHDN. Use this when you want to batch invoices for consolidated submission later (B2C monthly flow).
     - **Approve and Submit** — submits the invoice directly to LHDN immediately. Use this for standard B2B invoices that should be validated and sent right away.
-      > ℹ️ **Note:** Not sure which to choose? See [How to submit invoices to LHDN →](07-how-to-submit-invoices-to-lhdn.md) for a full explanation of both paths.
+      > [!NOTE] 
+      > Not sure which to choose? See [How to submit invoices to LHDN →](07-how-to-submit-invoices-to-lhdn.md) for a full explanation of both paths.
 
 ## After submission
 

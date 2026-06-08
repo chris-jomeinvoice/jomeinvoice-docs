@@ -48,7 +48,8 @@ JomeInvoice handles consolidation in three stages: **Tagging → Conversion → 
 
    Once Valid, the consolidated invoices are your tax records for that month's B2C sales.
 
-> ℹ️ **Note:** JomeInvoice doesn't lock you into the current month. If you missed a previous month, you can still go back and consolidate it from the Console.
+> [!NOTE] 
+> JomeInvoice doesn't lock you into the current month. If you missed a previous month, you can still go back and consolidate it from the Console.
 
 ## Common questions
 
